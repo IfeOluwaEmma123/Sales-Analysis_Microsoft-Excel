@@ -1,2 +1,2 @@
-# Bike-Sales-Report-with-Excel
-Sales Analysis of a Bike Selling Firm
+# Report-Analysis-for-Selected-Industries
+Sales Analysis of a Slected Industry
