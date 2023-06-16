@@ -43,7 +43,7 @@ Fashion Sales.xlsx: This is the dataset for the project.
 8. Add summary and insights: Include summary sections or text boxes to highlight key findings and provide insights derived from the data. Summarize the main takeaways from each analysis and present them in a concise and meaningful way.
 9. Test and refine: Thoroughly test the dashboard by interacting with the visuals and validating the results. Check for any errors or inconsistencies. Refine the visuals, formulas, or layout as needed to improve the overall dashboard experience.
 
-## Microsoft Excel Dashboard**
+## **Microsoft Excel Dashboard**
 Here is the interactive dashboard that i built using Microsoft Excel to visualize the insights and trends derived from the analysis.
 
 ![Dashboard](Dashboard.JPG)
