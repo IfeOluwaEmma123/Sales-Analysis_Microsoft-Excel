@@ -30,7 +30,7 @@ Fashion Sales.xlsx: This is the dataset for the project.
 1. Define the objectives: Clearly define the objectives of your dashboard. What key insights do you want to extract from the data? What questions do you want to answer? This will help guide your analysis and visualization choices.
 2. Import and clean the data: Open the "Fashion Sales.xlsx" file in Excel and import the data into a new worksheet. Review the data for any inconsistencies, missing values, or errors. Clean the data by performing necessary transformations, such as removing duplicates, handling missing values, and formatting columns appropriately.
 3. Identify key metrics and dimensions: Determine the key metrics and dimensions that will drive your analysis. In this case, some potential metrics could be total sales, sales trends, top managers, sales distribution by category, and sales distribution by chain.
-4. Perform data analysis: Use Excel's built-in functions and formulas to perform various data analysis tasks. For example:
+4. Perform data analysis: Use Excel's built-in functions and formulas to perform various data analysis tasks.
   4.1 To calculate the total sales generated from each sales store, you can use the SUMIFS function to sum the sales based on the store name.
   4.2 To analyze the sales trends by state, you can create a pivot table or use the SUMIFS function with a criteria range for the state column.
   4.3 To identify the top five managers by total sales, you can use the SUMIFS function and rank the managers based on their sales values.
