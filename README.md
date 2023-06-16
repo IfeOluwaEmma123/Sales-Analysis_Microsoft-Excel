@@ -31,12 +31,12 @@ Fashion Sales.xlsx: This is the dataset for the project.
 2. Import and clean the data: Open the "Fashion Sales.xlsx" file in Excel and import the data into a new worksheet. Review the data for any inconsistencies, missing values, or errors. Clean the data by performing necessary transformations, such as removing duplicates, handling missing values, and formatting columns appropriately.
 3. Identify key metrics and dimensions: Determine the key metrics and dimensions that will drive your analysis. In this case, some potential metrics could be total sales, sales trends, top managers, sales distribution by category, and sales distribution by chain.
 4. Perform data analysis: Use Excel's built-in functions and formulas to perform various data analysis tasks. For example:
->To calculate the total sales generated from each sales store, you can use the SUMIFS function to sum the sales based on the store name.
->To analyze the sales trends by state, you can create a pivot table or use the SUMIFS function with a criteria range for the state column.
->To identify the top five managers by total sales, you can use the SUMIFS function and rank the managers based on their sales values.
->To analyze the distribution of sales by category, you can create a bar chart or use the COUNTIFS function to count the occurrences of each category.
->To analyze the sales trend by year and month for each chain, you can use the SUMIFS function with criteria ranges for the year, month, and chain columns.
->To analyze the distribution of sales by managers, you can create a pivot table or use the SUMIFS function with a criteria range for the manager column.
+i. To calculate the total sales generated from each sales store, you can use the SUMIFS function to sum the sales based on the store name.
+ii. To analyze the sales trends by state, you can create a pivot table or use the SUMIFS function with a criteria range for the state column.
+iii. To identify the top five managers by total sales, you can use the SUMIFS function and rank the managers based on their sales values.
+iv. To analyze the distribution of sales by category, you can create a bar chart or use the COUNTIFS function to count the occurrences of each category.
+v. To analyze the sales trend by year and month for each chain, you can use the SUMIFS function with criteria ranges for the year, month, and chain columns.
+vi. To analyze the distribution of sales by managers, you can create a pivot table or use the SUMIFS function with a criteria range for the manager column.
 5. Create interactive visualizations: Excel offers various visualization tools to create interactive charts and graphs. Select the appropriate visualization type for each analysis and customize the visuals to enhance readability and interactivity. You can create charts, pivot tables, slicers, and conditional formatting to allow users to interact with the data and explore different perspectives.
 6. Design the dashboard layout: Organize your visualizations in a logical and visually appealing manner. Use worksheets or separate sections within a worksheet to present different analysis views. Add titles, headings, and labels to provide context and guide users through the dashboard. Consider the user experience and make the dashboard intuitive and easy to navigate.
 7. Implement interactivity: Use Excel's interactive features, such as slicers, filters, and hyperlinks, to enable users to dynamically explore the data. Allow users to filter data based on different dimensions or drill down into specific details by linking visuals or worksheets.
