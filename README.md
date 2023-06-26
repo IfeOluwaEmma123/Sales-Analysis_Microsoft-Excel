@@ -19,7 +19,7 @@ Fashion Sales.xlsx: This is the dataset for the project.
 
 1. What is the total sales ganered from each sales store?
 2. What is the total sales, indicating their trends by state?
-3. Whao are the top five (5) managers by total sales?
+3. What are the top five (5) managers by total sales?
 4. What is the distribution of sales by category?
 5. What is the sales trend (by year and month) by chain?
 6. What is the distribution of sales by managers?
